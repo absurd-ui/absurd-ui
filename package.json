@@ -1,0 +1,9 @@
+{
+  "name": "root",
+  "devDependencies": {
+    "lerna": "^3.4.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

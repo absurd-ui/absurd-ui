@@ -1,0 +1,30 @@
+{
+  "name": "@absurd-ui/annoy-utils",
+  "version": "0.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "Utilities which annoys users in the browser. part of Absurd UI component library",
+  "author": "adhywiranata <adhywiranatap@gmail.com>",
+  "homepage": "https://github.com/adhywiranata/absurd-ui#readme",
+  "license": "ISC",
+  "main": "lib/annoy-utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhywiranata/absurd-ui.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/adhywiranata/absurd-ui/issues"
+  },
+  "gitHead": "8ab3390fdca23e8eb93f69e42211dd19ffa09761"
+}
